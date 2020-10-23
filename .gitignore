@@ -1,0 +1,9 @@
+﻿/Temp/
+*.csproj
+[Ll]ibrary/
+/.idea/
+/Logs/
+/obj/
+*.sln
+*.zip
+/Library/
